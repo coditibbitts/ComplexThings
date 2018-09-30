@@ -12,10 +12,10 @@ public class ComplexBase {
     // Constructor takes in nothing and sets all variables
     // to a 0.0 default
     ComplexBase () {
-        this.realOne = 0.0;
-        this.imaginaryOne = 0.0;
-        this.realTwo = 0.0;
-        this.imaginaryTwo = 0.0;
+        this.realOne = 0;
+        this.imaginaryOne = 0;
+        this.realTwo = 0;
+        this.imaginaryTwo = 0;
 
     } // End Constructor ComplexBase()
 
